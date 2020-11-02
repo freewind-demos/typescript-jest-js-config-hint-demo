@@ -1,7 +1,7 @@
-TypeScript Jest Demo
+TypeScript Jest Js Config Hint Demo
 ===========================
 
-使用typescript就需要在`jest.config.js`中使用`ts-jest`作为`preset`
+通过安装`@jest/types`并在`jest.config.js`中引入，在IDE层面提供输入提示
 
 ```
 npm install
