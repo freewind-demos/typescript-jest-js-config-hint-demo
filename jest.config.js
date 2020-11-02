@@ -1,7 +1,5 @@
-import {DefaultOptions} from '@jest/types/build/Config';
-
 /**
- * @type DefaultOptions
+ * @type {import('@jest/types/build/Config').DefaultOptions}
  */
 module.exports = {
   preset: 'ts-jest',
