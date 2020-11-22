@@ -1,5 +1,5 @@
 /**
- * @type {import('@jest/types/build/Config').DefaultOptions}
+ * @type {import('@jest/types/build/Config').InitialOptions}
  */
 module.exports = {
   preset: 'ts-jest',
